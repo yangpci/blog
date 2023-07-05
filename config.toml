@@ -1,9 +1,8 @@
 baseURL = "/"
-title = "Kubeclipper"
+title = "Yangpc"
 
 # Language settings
-contentDir = "content/zh-cn"
-defaultContentLanguage = "zh-cn"
+contentDir = "content"
 defaultContentLanguageInSubdir = false
 # Useful when translating.
 enableMissingTranslationPlaceholders = true
